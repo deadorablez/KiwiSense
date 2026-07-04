@@ -32,8 +32,6 @@ The objective is to create a reliable, low-cost, and expandable monitoring platf
 - 0.96" OLED Display (SSD1306)
 # Firmware
 
-## Firmware for KiwiSense V1.
-
 Status:
 - Hardware ordered
 - Firmware development starts after component arrival
