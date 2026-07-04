@@ -4,6 +4,11 @@ An open-source ESP32-based IoT monitoring system designed to monitor young kiwi 
 
 ---
 
+## LICENSE
+- MIT License
+- ESP32
+- IoT
+
 ## Project Overview
 
 KiwiSense is a modular smart agriculture project built to monitor environmental conditions around kiwi plants.
