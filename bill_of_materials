@@ -1,1 +1,25 @@
+# KiwiSense V1 Bill of Materials
 
+## Components
+
+| Item | Quantity | Description |
+|------|---------:|-------------|
+| ESP32-WROOM-32 Development Board | 1 | Main microcontroller |
+| Capacitive Soil Moisture Sensor | 1 | Measures soil moisture |
+| DS18B20 Waterproof Temperature Sensor | 1 | Measures soil temperature |
+| DHT22 Temperature & Humidity Sensor | 1 | Measures air conditions |
+| 0.96" OLED Display (I²C) | 1 | Local display |
+| 4.7kΩ Resistor | 1 | Pull-up resistor for DS18B20 |
+| Breadboard | 1 | Prototype platform |
+| Jumper Wires | Several | Electrical connections |
+| USB Cable | 1 | ESP32 programming and power |
+
+## Power Requirements
+
+- Operating Voltage: **3.3V**
+- USB Input: **5V via ESP32 USB**
+- Estimated Current Consumption: **<200 mA**
+
+## Version
+
+KiwiSense V1
