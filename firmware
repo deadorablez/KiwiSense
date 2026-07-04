@@ -1,2 +1,10 @@
-// KiwiSense V1 Firmware
-// Coming soon...
+firmware/
+│
+├── src/
+│     main.cpp
+│
+├── include/
+│
+├── lib/
+│
+└── README.md
