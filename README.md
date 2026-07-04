@@ -30,6 +30,22 @@ The objective is to create a reliable, low-cost, and expandable monitoring platf
 - DS18B20 Waterproof Temperature Sensor
 - DHT22 Temperature & Humidity Sensor
 - 0.96" OLED Display (SSD1306)
+# Firmware
+
+## Firmware for KiwiSense V1.
+
+Status:
+- Hardware ordered
+- Firmware development starts after component arrival
+
+Planned Features
+
+- Read soil moisture
+- Read soil temperature
+- Read air temperature & humidity
+- Display live values on OLED
+- Wi-Fi telemetry
+- Cloud upload
 
 ---
 
