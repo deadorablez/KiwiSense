@@ -1,10 +1,17 @@
-// KiwiSense V1 Firmware
-// Development starts after hardware arrives.
+/*
+ * KiwiSense V1
+ * ESP32 Environmental Monitoring System
+ */
 
-void setup() {
+#include <Arduino.h>
 
+void setup()
+{
+    Serial.begin(115200);
+    Serial.println("KiwiSense V1 Starting...");
 }
 
-void loop() {
+void loop()
+{
 
 }
