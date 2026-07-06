@@ -1,1 +1,10 @@
+| Item                   | Qty | Description          |
+| ---------------------- | --- | -------------------- |
+| ESP32-WROOM-32         | 1   | Controller           |
+| Capacitive Soil Sensor | 1   | Soil Moisture        |
+| DS18B20                | 1   | Soil Temperature     |
+| DHT22                  | 1   | Temperature/Humidity |
+| OLED Display           | 1   | 0.96" I2C            |
+| 4.7kΩ Resistor         | 1   | Pull-up              |
+| Breadboard             | 1   | Prototype            |
 
