@@ -26,3 +26,9 @@ This directory contains the hardware documentation for KiwiSense V1.
 ## GPIO Mapping
 
 See [gpio_mapping.md](gpio_mapping.md) for complete GPIO assignments.
+
+## Software Flow
+
+The firmware continuously reads all sensors, updates the OLED, uploads telemetry to the cloud, waits for the configured interval, and repeats.
+
+![Software Flow](docs/hardware/flowchart.png)
