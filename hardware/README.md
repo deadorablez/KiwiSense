@@ -25,7 +25,7 @@ This directory contains the hardware documentation for KiwiSense V1.
 
 ## GPIO Mapping
 
-See [gpio_mapping.md](gpio_mapping.md) for complete GPIO assignments.
+See [gpio_mapping.md](hardware/pin_mapping.md) for complete GPIO assignments.
 
 ## Software Flow
 
